@@ -17,7 +17,7 @@ Focused on creating clean APIs, microservice architectures, and efficient infras
 ### 🌱 About Me
 
 - 💼 Backend Developer with 3+ years of hands-on experience in Node.js ecosystem
-- ⚙️ Skilled in designing and implementing RESTful and event-driven architectures
+- ⚙️ Skilled in designing and implementing RESTful, DDD, CQRS and event-driven architectures
 - 🧩 Experienced with NestJS, Express, and TypeScript
 - 🐳 Confident in Docker, Kubernetes, Redis, and RabbitMQ (RMQ)
 - 📈 Using Grafana, Prometheus, and Loki for metrics and observability

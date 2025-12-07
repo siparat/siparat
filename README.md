@@ -46,7 +46,4 @@ Focused on creating clean APIs, microservice architectures, and efficient infras
 ---
 
 ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
-Not work
-
-[//]: [![CherryTip](https://svg.bookmark.style/api?url=https://github.com/siparat/cherry-tip&mode=light&style=horizontal)](https://github.com/siparat/cherry-tip)
-
+[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/siparat/pif-shelter&style=Я)](https://github.com/siparat/pif-shelter)
